@@ -1,0 +1,8 @@
+{
+  "name": "svg-perf-test",
+  "version": "1.0.0",
+  "author": "",
+  "dependencies": {
+    "browser-perf": "^1.2.4"
+  }
+}
